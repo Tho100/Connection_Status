@@ -6,7 +6,7 @@ Essential modules to import:
 
 [using System;
 
-using System.Collections.Generic;
+[using System.Collections.Generic;
 
 using System.Drawing;
 
@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 using System.Runtime.InteropServices;
 
-using System.IO;](url)
+using System.IO;](url)]
 
 Screenshot of the gui
 
